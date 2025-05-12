@@ -3,8 +3,6 @@
   <b>Full Stack Engineer | Rust & TypeScript Enthusiast | Performance-Driven Developer</b>
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🌍 Based in Serbia (Open to relocation)
