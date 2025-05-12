@@ -35,10 +35,6 @@
 
 - **[yewlish-fetch](https://github.com/patchwork-body/yewlish/tree/main/fetch/)** – HTTP client/state manager for Yew.rs
 
-## 💡 Why Cloudflare?
-
-Cloudflare’s mission to build a better, faster, and safer Internet perfectly aligns with my passion for performance, security, and developer experience. I’m excited by the prospect of contributing to Cloudflare’s innovative UI Platform and helping shape the future of web performance at a global scale.
-
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/kirill-korotkov-69603b11b/)
