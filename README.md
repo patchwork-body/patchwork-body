@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/patchwork-body/patchwork-body/output/github-snake.svg" alt="Animated github contribution graph snake" />
-</p>
-
 <h1 align="center">Hi, I'm <span style="color:#F38020">Kirill Korotkov</span> 👋</h1>
 <p align="center">
   <b>Full Stack Engineer | Rust & TypeScript Enthusiast | Performance-Driven Developer</b>
