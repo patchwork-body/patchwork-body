@@ -5,17 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Rust-informational?style=flat&logo=rust&color=000000" />
-  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&color=3178C6" />
-  <img src="https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&color=000" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&color=FF9900" />
-  <img src="https://img.shields.io/badge/Performance-Obsessed-success?style=flat&logo=webpagetest&color=43B581" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🌍 Based in Serbia (Open to relocation)
